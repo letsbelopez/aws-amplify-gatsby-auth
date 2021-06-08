@@ -5,6 +5,7 @@ This auth starter implements a basic authentication flow for signing up signing 
 - User sign in
 - Multi-factor Authentication
 - User sign-out
+- Test deploy 1
 
 ![Gatsby Amplify](src/images/gatby-auth.gif)
 
